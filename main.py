@@ -1,7 +1,7 @@
 """
 ============================================================
 E-Commerce Conversion Rate Optimization (CRO) Analysis
-Author  : [Your Name]
+Author  : [RAY]
 Purpose : Philips Business Analyst Portfolio — GitHub Showcase
 Dataset : Cosmetics E-Commerce User Behaviour (Oct 2019)
 ============================================================
